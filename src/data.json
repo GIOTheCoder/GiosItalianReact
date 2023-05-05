@@ -1,0 +1,43 @@
+[ 
+    {
+        "id": 1,
+        "img": "opensign.jpg",
+        "title": "location finder",
+        "subcaption": "where we at with it"
+    },
+
+    {
+        "id": 2,
+        "img": "food.jpg",
+        "title": "nutrition",
+        "subcaption": "is it good for you?"
+    },
+
+    {
+        "id": 3,
+        "img": "chef.jpg",
+        "title": "employment",
+        "subcaption": "5 star chefs only"
+    },
+
+    {
+        "id": 4,
+        "img": "chef2.jpg",
+        "title": "our story",
+        "subcaption": "see what happened was..."
+    },
+
+    {
+        "id": 5,
+        "img": "cocktail.jpg",
+        "title": "special drinks",
+        "subcaption": "it's 5'oclock somewhere"
+    },
+
+    {
+        "id": 6,
+        "img": "steak.jpg",
+        "title": "fresh ideas",
+        "subcaption": "whats new mane"
+    }
+]
